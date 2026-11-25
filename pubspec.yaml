@@ -16,7 +16,7 @@ dependencies:
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: main
+      ref: 56152dfada4ec01e789d9b4335527141ab13cd87
 
 dev_dependencies:
   flutter_test:
