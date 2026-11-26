@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: ecc907063bac62549859e10b9bba4bf7d949d712
+      ref: 812f64c95632ef704569302dd29ec7e3215518ff
 
 dev_dependencies:
   flutter_test:
